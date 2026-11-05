@@ -1,0 +1,26 @@
+# 真实登录态产物，永远不要提交
+out/
+backup/
+*.json
+!config.example.json
+!package.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地覆盖
+config.json
+
+# �Բ���ʱĿ¼
+_selftest_work/

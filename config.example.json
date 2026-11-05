@@ -1,0 +1,7 @@
+{
+  "_comment": "复制为 config.json 后按需修改；环境变量优先级更高。留空的 dmmdzz_cookie 会在 search_roots 下自动探测。",
+  "ssjj_dir": "C:\\Users\\<USER>\\AppData\\Local\\Wooduan\\Microclient_64",
+  "dmmdzz_cookie": "",
+  "wilds_dir": "C:\\Program Files\\4399野蛮人大作战",
+  "search_roots": ["C:\\", "D:\\", "E:\\", "F:\\"]
+}
